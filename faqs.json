@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "category": "Admissions",
+    "question": "What is the admission eligibility for undergraduate B.Tech programs?",
+    "answer": "For undergraduate B.Tech programs at Apex Institute of Technology (AIT - Fictional), candidates must have passed 10+2 (Grade 12) with at least 60% aggregate marks in Physics, Chemistry, and Mathematics (55% for reserved categories) and hold a valid score in JEE Main or state engineering entrance examinations.",
+    "keywords": ["btech eligibility", "btech admission criteria", "admission requirements", "12th percentage"]
+  },
+  {
+    "id": 2,
+    "category": "Admissions",
+    "question": "How do I apply for admission at Apex Institute of Technology?",
+    "answer": "You can apply online via the official AIT admissions portal (https://admissions.fictional-ait.edu). Create an account, fill out the application form, upload academic transcripts and ID proof, and pay the non-refundable registration fee of $50 / ₹1,200.",
+    "keywords": ["how to apply", "application process", "online registration", "admission form"]
+  },
+  {
+    "id": 3,
+    "category": "Admissions",
+    "question": "What is the deadline for submitting undergraduate admission applications?",
+    "answer": "For the upcoming academic session, regular undergraduate applications close on June 30th. Late applications with a nominal late fee are accepted until July 15th, subject to seat availability.",
+    "keywords": ["last date to apply", "application deadline", "admission last date", "due date"]
+  },
+  {
+    "id": 4,
+    "category": "Admissions",
+    "question": "Can international or NRI students apply for admission?",
+    "answer": "Yes, AIT welcomes international and NRI candidates. Up to 15% supernumerary seats are reserved for international applicants. Requirements include equivalent 12th-grade certification evaluated by AIU/WES and proof of English proficiency (TOEFL score 80+ or IELTS 6.5+).",
+    "keywords": ["international students", "nri quota", "foreign admissions", "overseas admission"]
+  },
+  {
+    "id": 5,
+    "category": "Admissions",
+    "question": "What documents are required during physical verification for admission?",
+    "answer": "Original and two self-attested photocopies of: 10th and 12th mark sheets, Entrance exam scorecard, Transfer Certificate (TC), Migration Certificate, Category/Caste certificate (if applicable), 6 passport-size photographs, and Govt-issued photo ID.",
+    "keywords": ["admission documents", "documents needed", "verification checklist", "counseling documents"]
+  },
+  {
+    "id": 6,
+    "category": "Admissions",
+    "question": "Is there a management quota or direct admission available?",
+    "answer": "AIT reserves 10% institutional seats under institutional merit. Candidates must fulfill the minimum eligibility criteria (minimum 65% aggregate in PCM) and apply directly through the dean's office for consideration.",
+    "keywords": ["management quota", "direct admission", "institutional quota", "seat reservation"]
+  },
+  {
+    "id": 7,
+    "category": "Courses",
+    "question": "Which undergraduate degree programs are offered?",
+    "answer": "AIT offers 4-year Bachelor of Technology (B.Tech) degrees in: Computer Science & Engineering (CSE), Artificial Intelligence & Data Science (AI-DS), Electronics & Communication (ECE), Mechanical Engineering (ME), Civil Engineering (CE), and Biotechnology.",
+    "keywords": ["btech branches", "undergraduate courses", "programs offered", "engineering majors"]
+  },
+  {
+    "id": 8,
+    "category": "Courses",
+    "question": "Are postgraduate and Master's programs available?",
+    "answer": "Yes, AIT offers 2-year Master's programs including M.Tech in Software Systems, VLSI Design, and Thermal Engineering, as well as Master of Business Administration (MBA) and Master of Computer Applications (MCA).",
+    "keywords": ["mtech courses", "master degrees", "postgraduate programs", "pg courses", "mba mca"]
+  },
+  {
+    "id": 9,
+    "category": "Courses",
+    "question": "Does the college offer minor degrees or specializations?",
+    "answer": "Yes. Students in any engineering discipline can pursue an interdisciplinary Minor Degree in fields such as Cybersecurity, Cloud Computing, Financial Technology, or Robotics by completing 18 additional credits starting from semester 3.",
+    "keywords": ["minor degree", "specialization", "interdisciplinary minors", "dual degree"]
+  },
+  {
+    "id": 10,
+    "category": "Courses",
+    "question": "What is the course curriculum structure and credit system?",
+    "answer": "AIT follows the Choice Based Credit System (CBCS) adhering to global guidelines. A minimum of 160 credits is required for B.Tech graduation, spanning Core Theory, Laboratory Practicals, Open Electives, Humanities, and Capstone Projects.",
+    "keywords": ["credit system", "cbcs", "graduation credits", "curriculum structure"]
+  },
+  {
+    "id": 11,
+    "category": "Courses",
+    "question": "Can I change my engineering branch after the first year?",
+    "answer": "Branch upgrade or change is permitted at the end of the first year (Semester 2) for students with a CGPA of 8.5 or higher and no backlogs, strictly based on merit and vacant seats in the desired department.",
+    "keywords": ["branch change", "change department", "branch sliding", "switch major"]
+  },
+  {
+    "id": 12,
+    "category": "Fees",
+    "question": "What is the annual tuition fee for B.Tech programs?",
+    "answer": "The annual tuition fee for B.Tech programs is $2,400 / ₹1,80,000 per academic year, payable in two equal semester installments. Laboratory and development fees are $300 / ₹25,000 per year.",
+    "keywords": ["tuition fees", "btech fee structure", "annual fees", "cost of course"]
+  },
+  {
+    "id": 13,
+    "category": "Fees",
+    "question": "Can fees be paid in installments?",
+    "answer": "Yes, tuition fees can be paid in two equal semester-wise installments prior to the start of each semester. In cases of financial hardship, students can request up to 3 installments per semester with Dean approval.",
+    "keywords": ["fee installment", "split fees", "semester payments", "pay fee in parts"]
+  },
+  {
+    "id": 14,
+    "category": "Fees",
+    "question": "What modes of payment are accepted for college fees?",
+    "answer": "Fee payments can be made online through the student portal using Net Banking, UPI, Credit/Debit cards, or offline through Demand Draft (DD) drawn in favor of 'Apex Institute of Technology'. Cash payments are strictly not accepted.",
+    "keywords": ["fee payment methods", "payment gateway", "demand draft", "how to pay fee"]
+  },
+  {
+    "id": 15,
+    "category": "Fees",
+    "question": "What is the fee refund policy if I withdraw my admission?",
+    "answer": "Refund requests submitted before the start of classes receive a 100% refund minus a $15 / ₹1,000 processing fee. Requests submitted within 15 days of session commencement receive an 80% refund. No refunds are granted after 30 days of semester start.",
+    "keywords": ["refund policy", "fee refund", "cancel admission", "withdraw admission refund"]
+  },
+  {
+    "id": 16,
+    "category": "Fees",
+    "question": "Is there a caution deposit, and is it refundable?",
+    "answer": "Yes, a one-time security caution deposit of $150 / ₹10,000 is collected at the time of admission. This deposit is 100% refundable upon graduation or formal withdrawal after clearance of all dues.",
+    "keywords": ["caution deposit", "security money", "refundable deposit", "library deposit"]
+  },
+  {
+    "id": 17,
+    "category": "Scholarships",
+    "question": "Are merit-based scholarships available for students?",
+    "answer": "Yes, AIT provides merit scholarships: 50% tuition waiver for top 1 percentile entrance scorers, 25% waiver for students scoring 90%+ in Grade 12, and continuous merit awards for semester CGPAs above 9.2.",
+    "keywords": ["merit scholarship", "scholarship criteria", "fee discount", "top rankers waiver"]
+  },
+  {
+    "id": 18,
+    "category": "Scholarships",
+    "question": "Does the college offer sports or athletic scholarships?",
+    "answer": "Yes, National and State-level medalists in recognized sports can receive up to a 75% tuition fee waiver, along with free hostel accommodation and dedicated athletic training mentorship.",
+    "keywords": ["sports scholarship", "athlete quota", "sports concession", "athletics grant"]
+  },
+  {
+    "id": 19,
+    "category": "Scholarships",
+    "question": "Are there scholarships for students from economically weaker sections (EWS)?",
+    "answer": "The 'AIT Pragati Support Scheme' provides up to 50% tuition assistance to students whose annual family income is below $3,500 / ₹2,50,000. Income certificates from relevant authorities are required.",
+    "keywords": ["ews scholarship", "financial aid", "need based scholarship", "income scholarship"]
+  },
+  {
+    "id": 20,
+    "category": "Scholarships",
+    "question": "Can I avail of government scholarships while studying at AIT?",
+    "answer": "Yes, AIT is accredited, and eligible students can apply for Central and State government scholarships such as National Scholarship Portal (NSP), Post-Matric Scholarships, and PM-USP schemes with complete guidance from our scholarship cell.",
+    "keywords": ["government scholarship", "nsp portal", "state scholarship", "post matric"]
+  },
+  {
+    "id": 21,
+    "category": "Scholarships",
+    "question": "How and when do students apply for college scholarships?",
+    "answer": "Scholarship applications open in the first month of every academic year (August). Eligible students submit their applications along with supporting documents via the student ERP portal before September 15th.",
+    "keywords": ["apply for scholarship", "scholarship deadline", "scholarship application form"]
+  },
+  {
+    "id": 22,
+    "category": "Hostel",
+    "question": "Does the college offer on-campus hostel facilities?",
+    "answer": "Yes, AIT provides separate, secure on-campus residential hostels for male and female students with capacities accommodating over 2,500 students.",
+    "keywords": ["hostel facility", "campus accommodation", "boarding", "rooms available"]
+  },
+  {
+    "id": 23,
+    "category": "Hostel",
+    "question": "What types of rooms are available in the hostel and what is the cost?",
+    "answer": "Hostel accommodations include: 2-sharing AC ($1,200 / ₹95,000 per year), 2-sharing Non-AC ($950 / ₹75,000 per year), and 3-sharing Non-AC ($750 / ₹60,000 per year). Mess charges are $600 / ₹45,000 per year.",
+    "keywords": ["hostel fee", "room types", "single room", "ac hostel", "hostel rent"]
+  },
+  {
+    "id": 24,
+    "category": "Hostel",
+    "question": "What amenities are provided in the hostel?",
+    "answer": "Hostel amenities include 24/7 high-speed Wi-Fi, laundry facilities, study lounges, recreational game rooms, gymnasium access, RO purified water, backup power generators, and medical dispensary access.",
+    "keywords": ["hostel amenities", "hostel facilities", "wifi in hostel", "hostel laundry"]
+  },
+  {
+    "id": 25,
+    "category": "Hostel",
+    "question": "What are the hostel curfew hours and safety rules?",
+    "answer": "For safety, the hostel gate closes at 9:30 PM on weekdays and 10:00 PM on weekends. 24/7 biometric entry, CCTV surveillance in public corridors, and professional security staff ensure a secure environment. Night out passes must be approved by wardens.",
+    "keywords": ["hostel curfew", "in time", "hostel rules", "night out pass", "gate timing"]
+  },
+  {
+    "id": 26,
+    "category": "Hostel",
+    "question": "Is the hostel mess food hygienic and are both veg and non-veg options served?",
+    "answer": "The student mess is monitored by a student food committee and offers hygienic multi-cuisine food. Both vegetarian and non-vegetarian menus are available 4 times daily (breakfast, lunch, evening snacks, dinner) with special festive meals.",
+    "keywords": ["mess food", "hostel dining", "non veg mess", "food quality", "canteen meal"]
+  },
+  {
+    "id": 27,
+    "category": "Transportation",
+    "question": "Does the college provide daily bus transportation for day scholars?",
+    "answer": "Yes, AIT operates an extensive fleet of 35 air-conditioned and non-AC buses covering all major neighborhoods, railway stations, and metro hubs across a 40 km radius around campus.",
+    "keywords": ["college bus", "transport facility", "day scholar bus", "bus route"]
+  },
+  {
+    "id": 28,
+    "category": "Transportation",
+    "question": "What is the annual transportation or bus fee?",
+    "answer": "The annual bus fee ranges from $300 to $450 (₹24,000 to ₹35,000) depending on the pickup distance zone. Bus passes are issued per academic year.",
+    "keywords": ["bus fee", "transport charges", "bus fare", "commute cost", "transport cost", "how much bus cost", "annual transport fee"]
+  },
+  {
+    "id": 29,
+    "category": "Transportation",
+    "question": "How can I track the college bus in real time?",
+    "answer": "All AIT buses are equipped with GPS trackers. Students and parents can track their designated bus route and arrival times in real time via the AIT Campus Mobile App.",
+    "keywords": ["track bus", "gps tracking", "bus location", "bus schedule app"]
+  },
+  {
+    "id": 30,
+    "category": "Transportation",
+    "question": "Can students park their personal two-wheelers or cars on campus?",
+    "answer": "Yes, dedicated parking spaces are provided near Gate 1 and Gate 3. Students must register their vehicle with the campus security office to receive an authorized parking sticker.",
+    "keywords": ["parking facility", "bike parking", "car parking", "student vehicle"]
+  },
+  {
+    "id": 31,
+    "category": "Placements",
+    "question": "What was the placement record and statistics for the latest batch?",
+    "answer": "In the latest placement cycle, AIT recorded a 92% placement rate for eligible students, with over 180 visiting companies, an average package of $8,500 / ₹7.2 LPA, and the highest domestic package reaching $54,000 / ₹44 LPA.",
+    "keywords": ["placement record", "placement percentage", "average package", "highest package"]
+  },
+  {
+    "id": 32,
+    "category": "Placements",
+    "question": "Which top companies visit the campus for placements?",
+    "answer": "Top recruiters include Microsoft, Google, Amazon, Infosys, TCS, Cognizant, Wipro, Cisco, Accenture, Deloitte, Larsen & Toubro, and Bosch, alongside emerging tech startups.",
+    "keywords": ["recruiting companies", "top recruiters", "campus placement companies", "hiring partners"]
+  },
+  {
+    "id": 33,
+    "category": "Placements",
+    "question": "When does campus placement training and recruitment begin?",
+    "answer": "Placement preparation begins in the 5th semester with coding bootcamps, soft skills, aptitude training, and mock interviews. Official campus recruitment drives start at the beginning of the 7th semester (July).",
+    "keywords": ["when placement starts", "placement training", "aptitude coaching", "mock interview"]
+  },
+  {
+    "id": 34,
+    "category": "Placements",
+    "question": "Does the college help students secure summer internships?",
+    "answer": "Yes, the Training & Placement Cell (TPC) partners with industry leaders to facilitate mandatory summer internships for 3rd-year students, with average monthly stipends ranging from $250 to $1,000 (₹20,000 - ₹80,000).",
+    "keywords": ["summer internship", "internship assistance", "stipend internship", "industry training"]
+  },
+  {
+    "id": 35,
+    "category": "Placements",
+    "question": "What is the eligibility criteria to register for campus placements?",
+    "answer": "To participate in campus drives, students must maintain a minimum CGPA of 6.5 (or higher as specified by individual companies), have no active backlogs at the time of recruitment, and meet the 75% attendance criterion in training sessions.",
+    "keywords": ["placement eligibility", "cgpa for placement", "backlog criteria", "tpc registration"]
+  },
+  {
+    "id": 36,
+    "category": "Examinations",
+    "question": "How is the academic performance evaluated?",
+    "answer": "AIT follows a continuous evaluation model consisting of 40% Continuous Internal Assessment (mid-term tests, quizzes, assignments, lab work) and 60% End-Semester Examination.",
+    "keywords": ["exam pattern", "grading system", "internal assessment", "evaluation scheme"]
+  },
+  {
+    "id": 37,
+    "category": "Examinations",
+    "question": "What is the minimum attendance requirement to be eligible for semester exams?",
+    "answer": "A minimum of 75% attendance in each registered subject (theory and lab) is mandatory. In cases of certified medical emergencies, a condonation of up to 10% may be granted with Dean approval.",
+    "keywords": ["attendance requirement", "minimum attendance", "exam hall ticket attendance", "condonation"]
+  },
+  {
+    "id": 38,
+    "category": "Examinations",
+    "question": "When are mid-term and end-semester examinations conducted?",
+    "answer": "Odd semester mid-terms occur in October and end-semester exams in December. Even semester mid-terms occur in March and end-semester exams in May. Detailed timetables are published 3 weeks in advance.",
+    "keywords": ["exam schedule", "exam timetable", "mid term dates", "end semester exams"]
+  },
+  {
+    "id": 39,
+    "category": "Examinations",
+    "question": "What is the procedure for supplementary or backlog exams?",
+    "answer": "Supplementary examinations are conducted twice a year: in July (for odd/even backlogs) and December. Students register via the exam portal and pay a nominal fee of $6 / ₹500 per subject.",
+    "keywords": ["backlog exam", "supplementary exam", "re-appear", "arrear exam"]
+  },
+  {
+    "id": 40,
+    "category": "Examinations",
+    "question": "Can I apply for re-evaluation or photocopy of my answer sheet?",
+    "answer": "Yes. Students dissatisfied with their marks can apply for revaluation or obtain an evaluated answer script photocopy within 10 days of result announcement through the student examination portal.",
+    "keywords": ["revaluation", "re-checking", "paper photocopy", "re-totalling", "exam dispute"]
+  },
+  {
+    "id": 41,
+    "category": "Examinations",
+    "question": "What is the grading scale and how is CGPA calculated?",
+    "answer": "AIT uses a 10-point grading scale: O (10, Outstanding), A+ (9, Excellent), A (8, Very Good), B+ (7, Good), B (6, Above Average), C (5, Average), and F (0, Fail). CGPA is the credit-weighted average of grade points across semesters.",
+    "keywords": ["cgpa calculation", "grading scale", "grade points", "gpa system"]
+  },
+  {
+    "id": 42,
+    "category": "Library",
+    "question": "What are the Central Library operating hours?",
+    "answer": "The Central Library is open Monday through Saturday from 8:00 AM to 10:00 PM. During semester examination periods, the reading halls remain open 24/7.",
+    "keywords": ["library hours", "library timing", "reading room hours", "library open on sunday"]
+  },
+  {
+    "id": 43,
+    "category": "Library",
+    "question": "How many books can undergraduate students borrow at a time?",
+    "answer": "Undergraduate students can borrow up to 5 books simultaneously for a duration of 14 days. Books can be renewed twice online if there are no pending reservations.",
+    "keywords": ["borrow books", "library book limit", "issue period", "renew book"]
+  },
+  {
+    "id": 44,
+    "category": "Library",
+    "question": "Does the library provide access to online digital journals and databases?",
+    "answer": "Yes, AIT provides digital access to IEEE Xplore, ScienceDirect, ACM Digital Library, SpringerLink, and J-GATE, accessible both on-campus via Wi-Fi and remotely via VPN credentials.",
+    "keywords": ["ieee access", "digital library", "research journals", "sciencedirect", "online database"]
+  },
+  {
+    "id": 45,
+    "category": "Library",
+    "question": "Is there a fine for returning library books late?",
+    "answer": "An overdue fee of $0.15 / ₹10 per book per day is charged after the due date. Continued failure to return books may lead to suspension of borrowing privileges.",
+    "keywords": ["library fine", "overdue charges", "late return fee", "book penalty"]
+  },
+  {
+    "id": 46,
+    "category": "Library",
+    "question": "Are private study cubicles or group discussion rooms available in the library?",
+    "answer": "Yes, the library features 12 soundproof Group Study Rooms equipped with digital smart displays and 40 individual quiet study carrels, bookable via the library reservation kiosk.",
+    "keywords": ["group study room", "discussion room", "study cubicle", "quiet study area"]
+  },
+  {
+    "id": 47,
+    "category": "Campus Facilities",
+    "question": "What sports and fitness facilities are available on campus?",
+    "answer": "AIT boasts a multi-sport complex with an Olympic-size athletic track, football field, cricket turf, indoor badminton courts, basketball and tennis courts, and two modern fitness gyms with certified instructors.",
+    "keywords": ["sports facilities", "gym", "gymnasium", "sports complex", "badminton court", "cricket ground"]
+  },
+  {
+    "id": 48,
+    "category": "Campus Facilities",
+    "question": "Is medical healthcare available on campus for emergencies?",
+    "answer": "Yes, the AIT Campus Health Centre functions 24/7 with resident doctors, nursing staff, emergency observation beds, basic diagnostic tests, and an ambulance on standby with tie-ups with leading local multispecialty hospitals.",
+    "keywords": ["medical facility", "health center", "doctor on campus", "hospital emergency", "ambulance"]
+  },
+  {
+    "id": 49,
+    "category": "Campus Facilities",
+    "question": "What dining and cafeteria options are available on campus?",
+    "answer": "Campus facilities include the Main Central Food Court, Subway, Cafe Coffee Day, a healthy juice bar, and multiple snacking kiosks serving varied cuisine from 7:30 AM to 11:00 PM.",
+    "keywords": ["food court", "cafeteria", "canteen", "cafe coffee day", "campus dining", "snacks"]
+  },
+  {
+    "id": 50,
+    "category": "Campus Facilities",
+    "question": "Are banking facilities and ATMs available inside the campus?",
+    "answer": "Yes, a full-service branch of State Bank and two 24/7 ATMs (HDFC Bank & State Bank) are located in the Student Activity Center on campus.",
+    "keywords": ["atm on campus", "bank branch", "banking facility", "cash withdrawal"]
+  },
+  {
+    "id": 51,
+    "category": "Campus Facilities",
+    "question": "Is Wi-Fi available across the entire college campus?",
+    "answer": "Yes, high-speed 1 Gbps fiber optic Wi-Fi covers the entire campus, including academic blocks, research labs, hostels, libraries, and open green quads. Access credentials are provided to registered students during orientation.",
+    "keywords": ["wifi speed", "campus internet", "wireless connection", "student wifi login"]
+  },
+  {
+    "id": 52,
+    "category": "Campus Facilities",
+    "question": "What student clubs and extracurricular societies exist at AIT?",
+    "answer": "AIT hosts over 35 active student bodies, including the Robotics Club, Google Developer Student Club (GDSC), Coding Club, Literary & Debating Society, Dance & Drama Club, Eco-Green Warriors, and the Rotaract Youth Wing.",
+    "keywords": ["student clubs", "extracurricular activities", "societies", "cultural clubs", "technical club"]
+  },
+  {
+    "id": 53,
+    "category": "Campus Facilities",
+    "question": "Does the college have an incubation center for student startups?",
+    "answer": "Yes, the AIT Innovation & Startup Incubation Hub (AIT-Incubate) provides student entrepreneurs with seed funding up to $10,000 / ₹5,00,000, co-working space, patent filing assistance, and legal/business mentorship.",
+    "keywords": ["startup incubator", "incubation center", "entrepreneurship cell", "seed funding", "patent"]
+  },
+  {
+    "id": 54,
+    "category": "Campus Facilities",
+    "question": "Is the campus accessible for students with disabilities?",
+    "answer": "Yes, AIT is fully barrier-free and accessible, featuring wheelchair ramps, tactile walkways, voice-assisted elevators in all multi-story buildings, and reserved accessible restrooms.",
+    "keywords": ["disability friendly", "wheelchair accessible", "barrier free campus", "accessibility"]
+  },
+  {
+    "id": 55,
+    "category": "Campus Facilities",
+    "question": "What security and anti-ragging measures are in place?",
+    "answer": "AIT maintains a strict Zero Tolerance policy towards ragging. The campus is secured with 24/7 CCTV coverage, round-the-clock security patrols, an active Anti-Ragging Committee, and emergency SOS call boxes across campus corridors.",
+    "keywords": ["anti ragging", "campus safety", "cctv cameras", "security measures", "sos helpline"]
+  }
+]
