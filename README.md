@@ -1,4 +1,4 @@
-# 🎓 Apex Institute FAQ Chatbot — CodeAlpha AI Internship (Project 1)
+# 🎓 Campus FAQ Chatbot — CodeAlpha AI Internship (Project 1)
 
 [![Python Version](https://img.shields.io/badge/Python-3.14%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.67.0-FF4B4B.svg)](https://streamlit.io/)
@@ -27,14 +27,12 @@ Developed as **Project 1** for the **CodeAlpha Artificial Intelligence Internshi
 8. [Running the Application](#-running-the-application)
 9. [Running Automated Tests](#-running-automated-tests)
 10. [Beginner's Guide & Intuition](#-beginners-guide--intuition)
-11. [Two-Minute Video Demonstration Script](#-two-minute-video-demonstration-script)
-12. [Resume-Ready Project Description](#-resume-ready-project-description)
 
 ---
 
 ## 🌟 Project Overview
 
-The **Apex Institute FAQ Chatbot** delivers instant, 24/7 intelligent assistance to current and prospective students, parents, and visitors. Instead of relying on rigid keyword lookups or complex, unpredictable LLMs that may hallucinate inaccurate college policies, this chatbot employs a **deterministic vector space NLP model** combining **Term Frequency-Inverse Document Frequency (TF-IDF)** with **Cosine Similarity**.
+The **Campus FAQ Chatbot** delivers instant, 24/7 intelligent assistance to current and prospective students, parents, and visitors. Instead of relying on rigid keyword lookups or complex, unpredictable LLMs that may hallucinate inaccurate college policies, this chatbot employs a **deterministic vector space NLP model** combining **Term Frequency-Inverse Document Frequency (TF-IDF)** with **Cosine Similarity**.
 
 ### Why TF-IDF and Cosine Similarity?
 - **Zero Hallucination:** Answers are strictly grounded in verified institutional FAQs.
@@ -277,36 +275,6 @@ If you are new to Natural Language Processing, here is how the chatbot works in 
 
 4. **Why Have a Threshold?**
    If a user asks *"How do I bake a chocolate cake?"*, the similarity score with college questions might be `0.04`. Because `0.04 < 0.25`, our chatbot safely says: *"I don't know the answer to that"* rather than guessing an unrelated answer like the library rules!
-
----
-
-## 🎬 Two-Minute Video Demonstration Script
-
-Use this script when recording your project demonstration video for your internship submission or portfolio:
-
-| Timestamp | Screen Display | Spoken Narration |
-| :--- | :--- | :--- |
-| **0:00 - 0:20** | Show Streamlit UI with Header Banner & Sidebar. | *"Hello everyone! In this video, I am presenting Project 1 of my CodeAlpha Artificial Intelligence Internship: a complete Campus FAQ Chatbot built with Python, NLTK, Scikit-learn, and Streamlit."* |
-| **0:20 - 0:45** | Click a suggestion chip: *"What is the annual tuition fee for B.Tech?"*. Show bot response and similarity badge. | *"Our chatbot uses an NLP pipeline including tokenization, stopword filtering, and lemmatization, followed by TF-IDF vectorization. When I ask about tuition fees, the model computes a cosine similarity of over 0.85, returning the exact verified answer along with the department category."* |
-| **0:45 - 1:10** | Type a paraphrased question: *"Can you tell me how much the bus costs per year?"*. | *"Notice that the chatbot handles paraphrased and similar questions seamlessly. Even though I phrased the question differently from the original FAQ, the TF-IDF vector space matches the semantic intent to the Transportation fee entry with high confidence."* |
-| **1:10 - 1:30** | Type an unknown query: *"What is the recipe for cookies?"*. Show fallback. | *"Crucially, to prevent hallucination, we implemented a similarity threshold. When an out-of-scope question is asked, the similarity drops below 0.25, triggering a polite fallback response that invites the user to rephrase or contact support."* |
-| **1:30 - 1:50** | Show sidebar category filter, JSON export button, and the *"Browse All FAQs"* tab. | *"The application also provides department category filters, conversation export to JSON, and a searchable knowledge base covering 55 verified FAQs across 10 academic categories."* |
-| **1:50 - 2:00** | Switch to terminal and show `python -m unittest tests/test_chatbot.py` passing 17/17 tests. | *"All 17 automated tests pass with 100% success. Thank you to CodeAlpha for this hands-on opportunity to master practical NLP engineering!"* |
-
----
-
-## 💼 Resume-Ready Project Description
-
-You can add this project directly to your Resume / LinkedIn under Projects:
-
-```text
-Campus FAQ Chatbot (NLP & Information Retrieval) | CodeAlpha AI Internship
-• Developed an intelligent, deterministic FAQ chatbot for academic institutions using Python, NLTK, Scikit-learn, and Streamlit.
-• Engineered a robust NLP preprocessing pipeline featuring tokenization, punctuation removal, domain-preserving stopword filtering, and WordNet lemmatization with offline fallback support.
-• Implemented dual-corpus TF-IDF vectorization and Cosine Similarity scoring to deliver sub-5ms semantic question matching across 55+ campus FAQs in 10 categories.
-• Designed a safety-first confidence threshold mechanism (0.25 cutoff) to eliminate false positives and hallucinated answers on out-of-scope queries.
-• Built a modern, responsive web dashboard with category filtering, real-time suggestion chips, conversation JSON export, and full automated test suite (17/17 unit tests passing).
-```
 
 ---
 
